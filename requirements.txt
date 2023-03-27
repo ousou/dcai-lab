@@ -3,3 +3,4 @@ scikit-learn
 pandas
 cleanlab
 xgboost==1.7
+matplotlib
